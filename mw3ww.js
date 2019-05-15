@@ -2,5 +2,5 @@
     function mw3ww(func){
         func();
     };
-    return mw3ww
+    window.mw3ww = mw3ww;
 })();
