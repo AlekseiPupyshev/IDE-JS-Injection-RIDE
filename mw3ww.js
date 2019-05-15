@@ -1,6 +1,6 @@
 (function(){
     function mw3ww(func){
-        //comment 5
+        //comment 6
         func();
     };
     window.mw3ww = mw3ww;
